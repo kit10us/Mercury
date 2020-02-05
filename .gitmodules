@@ -7,3 +7,6 @@
 [submodule "MercuryEngine"]
 	path = MercuryEngine
 	url = https://github.com/kit10us/MercuryEngine
+[submodule "MercuryTests"]
+	path = MercuryTests
+	url = https://github.com/kit10us/MercuryTests
