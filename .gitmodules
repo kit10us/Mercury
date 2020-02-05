@@ -1,0 +1,9 @@
+[submodule "DirectXTex"]
+	path = DirectXTex
+	url = https://github.com/microsoft/DirectXTex.git
+[submodule "Unify"]
+	path = Unify
+	url = https://github.com/kit10us/Unify.git
+[submodule "MercuryEngine"]
+	path = MercuryEngine
+	url = https://github.com/kit10us/MercuryEngine
