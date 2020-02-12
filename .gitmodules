@@ -10,3 +10,75 @@
 [submodule "MercuryTests"]
 	path = MercuryTests
 	url = https://github.com/kit10us/MercuryTests
+[submodule "qjson"]
+	path = qjson
+	url = https://github.com/kit10us/qjson.git
+[submodule "qxml"]
+	path = qxml
+	url = https://github.com/kit10us/qxml.git
+[submodule "resourcemanager"]
+	path = resourcemanager
+	url = https://github.com/kit10us/resourcemanager.git
+[submodule "Adventure"]
+	path = Adventure
+	url = https://github.com/kit10us/Adventure.git
+[submodule "MEWindowsOS"]
+	path = MEWindowsOS
+	url = https://github.com/kit10us/MEWindowsOS
+[submodule "MENullExtension"]
+	path = MENullExtension
+	url = https://github.com/kit10us/MENullExtension.git
+[submodule "MEPhy2D"]
+	path = MEPhy2D
+	url = https://github.com/kit10us/MEPhy2D.git
+[submodule "MERendererDX11"]
+	path = MERendererDX11
+	url = https://github.com/kit10us/MERendererDX11.git
+[submodule "MEShapes"]
+	path = MEShapes
+	url = https://github.com/kit10us/MEShapes.git
+[submodule "MEASELoader"]
+	path = MEASELoader
+	url = https://github.com/kit10us/MEASELoader.git
+[submodule "MEWinMain"]
+	path = MEWinMain
+	url = https://github.com/kit10us/MEWinMain.git
+[submodule "MERendererDX9"]
+	path = MERendererDX9
+	url = https://github.com/kit10us/MERendererDX9.git
+[submodule "MELua"]
+	path = MELua
+	url = https://github.com/kit10us/MELua.git
+[submodule "MEPhysicsLuaExt"]
+	path = MEPhysicsLuaExt
+	url = https://github.com/kit10us/MEPhysicsLuaExt.git
+[submodule "MEPhysics"]
+	path = MEPhysics
+	url = https://github.com/kit10us/MEPhysics.git
+[submodule "MESceneAutoLoader"]
+	path = MESceneAutoLoader
+	url = https://github.com/kit10us/MESceneAutoLoader.git
+[submodule "MEDaeLoader"]
+	path = MEDaeLoader
+	url = https://github.com/kit10us/MEDaeLoader.git
+[submodule "MEEditor"]
+	path = MEEditor
+	url = https://github.com/kit10us/MEEditor.git
+[submodule "MEWinApiBuilder"]
+	path = MEWinApiBuilder
+	url = https://github.com/kit10us/MEWinApiBuilder.git
+[submodule "MEGamepad"]
+	path = MEGamepad
+	url = https://github.com/kit10us/MEGamepad.git
+[submodule "MEMouse"]
+	path = MEMouse
+	url = https://github.com/kit10us/MEMouse.git
+[submodule "MEKeyboard"]
+	path = MEKeyboard
+	url = https://github.com/kit10us/MEKeyboard.git
+[submodule "MERendererOGL"]
+	path = MERendererOGL
+	url = https://github.com/kit10us/MERendererOGL.git
+[submodule "packages"]
+	path = packages
+	url = https://github.com/kit10us/packages.git
