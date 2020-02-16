@@ -82,3 +82,7 @@
 [submodule "packages"]
 	path = packages
 	url = https://github.com/kit10us/packages.git
+[submodule "kitlogger"]
+	path = kitlogger
+	url = https://github.com/kit10us/kitlogger.git
+	branch = master
