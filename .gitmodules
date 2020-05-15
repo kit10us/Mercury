@@ -85,3 +85,7 @@
 [submodule "kitlogger"]
 	path = kitlogger
 	url = https://github.com/kit10us/kitlogger
+[submodule "KitLuaDev"]
+	path = KitLuaDev
+	url = https://github.com/kit10us/KitLuaDev
+	branch = master
