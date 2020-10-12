@@ -89,3 +89,6 @@
 	path = KitLuaDev
 	url = https://github.com/kit10us/KitLuaDev
 	branch = master
+[submodule "MercuryTestData"]
+	path = MercuryTestData
+	url = https://github.com/kit10us/MercuryTestData
