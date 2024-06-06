@@ -1,5 +1,7 @@
 .vs/
-extensions/
-intermediate/
-lib/
-output/
+*.log
+*.vcxproj.user
+/extensions/
+/intermediate/
+/lib/
+/output/
