@@ -30,4 +30,7 @@ git submodule update
 You can perform console commands on all repositories. This is not limited to git commands:
 git submodule foreach "git status"
 
+### Output Directories ###
+Mercury submodule's projects generate build/link output into their parent directories. In the case of the Mercury repo, that would be the Mercury repository directory. The .gitignore excludes these directories.
+
 
