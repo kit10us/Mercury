@@ -20,14 +20,14 @@ Here are some tips on working with submodules, especially as they pertain to the
 The repo includes some submodules that are not owned/supported by myself. Thus, sub commands that work with Mercury's submodules, might not work with those submodules. This is especially noticed with some commands executed via gits submodule _foreach_ command.
 
 ### Pulling the Mercury repo
-**git clone git@github.com:kit10us/Mercury**
+git clone git@github.com:kit10us/Mercury
 
 ### Pulling all submodules
-**git submodule init**
-**git submodule update**
+git submodule init
+git submodule update
 
 ### Working with Submodules
 You can perform console commands on all repositories. This is not limited to git commands:
-**git submodule foreach "git status"
+git submodule foreach "git status"
 
 
