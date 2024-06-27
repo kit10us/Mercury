@@ -1,97 +1,94 @@
 [submodule "DirectXTex"]
 	path = DirectXTex
-	url = https://github.com/microsoft/DirectXTex.git
-[submodule "Unify"]
-	path = Unify
-	url = https://github.com/kit10us/Unify.git
+	url = git@github.com:microsoft/DirectXTex.git
+[submodule "unify"]
+	path = unify
+	url = git@github.com:kit10us/unify
 [submodule "MercuryEngine"]
 	path = MercuryEngine
-	url = https://github.com/kit10us/MercuryEngine
+	url = git@github.com:kit10us/MercuryEngine
 [submodule "MercuryTests"]
 	path = MercuryTests
-	url = https://github.com/kit10us/MercuryTests
+	url = git@github.com:kit10us/MercuryTests
 [submodule "qjson"]
 	path = qjson
-	url = https://github.com/kit10us/qjson.git
+	url = git@github.com:kit10us/qjson.git
 [submodule "qxml"]
 	path = qxml
-	url = https://github.com/kit10us/qxml.git
+	url = git@github.com:kit10us/qxml.git
 [submodule "resourcemanager"]
 	path = resourcemanager
-	url = https://github.com/kit10us/resourcemanager.git
+	url = git@github.com:kit10us/resourcemanager.git
 [submodule "Adventure"]
 	path = Adventure
-	url = https://github.com/kit10us/Adventure.git
+	url = git@github.com:kit10us/Adventure.git
 [submodule "MEWindowsOS"]
 	path = MEWindowsOS
-	url = https://github.com/kit10us/MEWindowsOS
+	url = git@github.com:kit10us/MEWindowsOS
 [submodule "MENullExtension"]
 	path = MENullExtension
-	url = https://github.com/kit10us/MENullExtension.git
+	url = git@github.com:kit10us/MENullExtension.git
 [submodule "MEPhy2D"]
 	path = MEPhy2D
-	url = https://github.com/kit10us/MEPhy2D.git
+	url = git@github.com:kit10us/MEPhy2D.git
 [submodule "MERendererDX11"]
 	path = MERendererDX11
-	url = https://github.com/kit10us/MERendererDX11.git
+	url = git@github.com:kit10us/MERendererDX11.git
 [submodule "MEShapes"]
 	path = MEShapes
-	url = https://github.com/kit10us/MEShapes.git
+	url = git@github.com:kit10us/MEShapes.git
 [submodule "MEASELoader"]
 	path = MEASELoader
-	url = https://github.com/kit10us/MEASELoader.git
+	url = git@github.com:kit10us/MEASELoader.git
 [submodule "MEWinMain"]
 	path = MEWinMain
-	url = https://github.com/kit10us/MEWinMain.git
+	url = git@github.com:kit10us/MEWinMain.git
 [submodule "MERendererDX9"]
 	path = MERendererDX9
-	url = https://github.com/kit10us/MERendererDX9.git
+	url = git@github.com:kit10us/MERendererDX9.git
 [submodule "MELua"]
 	path = MELua
-	url = https://github.com/kit10us/MELua.git
+	url = git@github.com:kit10us/MELua.git
 [submodule "MEPhysicsLuaExt"]
 	path = MEPhysicsLuaExt
-	url = https://github.com/kit10us/MEPhysicsLuaExt.git
+	url = git@github.com:kit10us/MEPhysicsLuaExt.git
 [submodule "MEPhysics"]
 	path = MEPhysics
-	url = https://github.com/kit10us/MEPhysics.git
+	url = git@github.com:kit10us/MEPhysics.git
 [submodule "MESceneAutoLoader"]
 	path = MESceneAutoLoader
-	url = https://github.com/kit10us/MESceneAutoLoader.git
+	url = git@github.com:kit10us/MESceneAutoLoader.git
 [submodule "MEDaeLoader"]
 	path = MEDaeLoader
-	url = https://github.com/kit10us/MEDaeLoader.git
+	url = git@github.com:kit10us/MEDaeLoader.git
 [submodule "MEEditor"]
 	path = MEEditor
-	url = https://github.com/kit10us/MEEditor.git
+	url = git@github.com:kit10us/MEEditor.git
 [submodule "MEWinApiBuilder"]
 	path = MEWinApiBuilder
-	url = https://github.com/kit10us/MEWinApiBuilder.git
+	url = git@github.com:kit10us/MEWinApiBuilder.git
 [submodule "MEGamepad"]
 	path = MEGamepad
-	url = https://github.com/kit10us/MEGamepad.git
+	url = git@github.com:kit10us/MEGamepad.git
 [submodule "MEMouse"]
 	path = MEMouse
-	url = https://github.com/kit10us/MEMouse.git
+	url = git@github.com:kit10us/MEMouse.git
 [submodule "MEKeyboard"]
 	path = MEKeyboard
-	url = https://github.com/kit10us/MEKeyboard.git
+	url = git@github.com:kit10us/MEKeyboard.git
 [submodule "MERendererOGL"]
 	path = MERendererOGL
-	url = https://github.com/kit10us/MERendererOGL.git
+	url = git@github.com:kit10us/MERendererOGL.git
 [submodule "packages"]
 	path = packages
-	url = https://github.com/kit10us/packages.git
+	url = git@github.com:kit10us/packages.git
 [submodule "kitlogger"]
 	path = kitlogger
-	url = https://github.com/kit10us/kitlogger
+	url = git@github.com:kit10us/kitlogger
 [submodule "KitLuaDev"]
 	path = KitLuaDev
-	url = https://github.com/kit10us/KitLuaDev
+	url = git@github.com:kit10us/KitLuaDev
 	branch = master
-[submodule "MercuryTestData"]
-	path = MercuryTestData
-	url = git@github.com:kit10us/MercuryTestData
 [submodule "Portability"]
 	path = Portability
 	url = git@github.com:kit10us/Portability
