@@ -92,3 +92,9 @@
 [submodule "Portability"]
 	path = Portability
 	url = git@github.com:kit10us/Portability
+[submodule "interop"]
+	path = interop
+	url = git@github.com:kit10us/interop
+[submodule "MEXMLIO"]
+	path = MEXMLIO
+	url = git@github.com:kit10us/MEXMLIO

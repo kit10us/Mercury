@@ -33,4 +33,17 @@ git submodule foreach "git status"
 ### Output Directories ###
 Mercury submodule's projects generate build/link output into their parent directories. In the case of the Mercury repo, that would be the Mercury repository directory. The .gitignore excludes these directories.
 
+### Submodule Issues/Tickets
+Most submodules, those specifically relying on the Mercury ecosystem, reside in the this Mercury repository. This is for the sake of synchronization, as the greater number of issues also apply to other submodules, as well as they might be chronologically dependent.
+
+# Setup Files
+Setup files are appended with **.me_setup**, and are formatted as XML files to allows familiar structure. This is both to signify their intent as well as to differentiate them from standard XML files as they require being processed sequentially.
+
+# Extensions
+Extensions in Mercury are developed for specific OS and architecture. Because of this, the responsibility of loading extensions is pushed to the OS module itself.
+
+# The Code
+The following are the following assumptions and rules for updates to the Mercury engine:
+
+* The maximum language features supported are **c++ 17**: We fully intended to update the verison, however, the current code, including *unify* need to be modernized to c++ 17 first, since the code is substantially lagging.
 
